@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+**[freeCodeCamp - Relational Database Certification]https://www.freecodecamp.org/certification/gokhanguven/relational-databases-v9**
 <!--
 **guvengokhan/guvengokhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+**[Kaggle - Data Visualization Certification]https://www.kaggle.com/learn/certification/guvengokhan/data-visualization**
+**[Kaggle - Pandas Certification]https://www.kaggle.com/learn/certification/guvengokhan/pandas**
+**[Kaggle - Python Certification]https://www.kaggle.com/learn/certification/guvengokhan/python**
+
 **[freeCodeCamp - Data Analysis with Python Certification]https://www.freecodecamp.org/certification/gokhanguven/data-analysis-with-python-v7**
 
 **[freeCodeCamp - Relational Database Certification]https://www.freecodecamp.org/certification/gokhanguven/relational-databases-v9**

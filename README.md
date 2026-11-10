@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+**[Kaggle - Time Series Certification]https://www.kaggle.com/learn/certification/guvengokhan/time-series**
+
 **[Kaggle - Data Visualization Certification]https://www.kaggle.com/learn/certification/guvengokhan/data-visualization**
 
 **[Kaggle - Pandas Certification]https://www.kaggle.com/learn/certification/guvengokhan/pandas**
